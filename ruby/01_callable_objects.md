@@ -3,13 +3,13 @@
 
 Pavel Pokorný
 
-!SLIDE full-page
+!SLIDE
 # Spustitelné objekty #
 
 * blocks - {...}
-* procs and lambdas - Proc.new, proc, lambda
+* procs a lambdas - Proc.new, proc, lambda
 * methods - def, define_method
-* _closures_ - obsahují kompletní prostředí pro spuštění (kód, binding)
+* _closures_ - kód, binding
 
 !SLIDE
 # Blocks #
